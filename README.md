@@ -1,4 +1,4 @@
-### Hi there, We are [FreeBirds Crew](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1) 👋
+### Hi there, I am [Simranjeet Singh](https://www.instagram.com/itsexceptional/) 👋
 
 [<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds%20Crew.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 
