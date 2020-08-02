@@ -14,7 +14,7 @@
 [<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 [<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/CrewFreebirds)
 [<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet-singh-ab8071153/)
-[<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/freebirdscrew/)
+[<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/itsexceptional/)
 
 <br />
 
@@ -50,6 +50,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freebirdscrew&show_icons=true&hide_border=true" />
 
 [youtube]: https://bit.ly/3hOgKqf
-[instagram]: https://bit.ly/3jLR8vY
+[instagram]: https://www.instagram.com/itsexceptional/
 [linkedin]: https://bit.ly/3k4NL3i
 [twitter]: https://twitter.com/CrewFreebirds
