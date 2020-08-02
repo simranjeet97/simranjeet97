@@ -47,7 +47,7 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=freebirdscrew&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simranjeet97&show_icons=true&hide_border=true" />
 
 [youtube]: https://bit.ly/3hOgKqf
 [instagram]: https://www.instagram.com/itsexceptional/
