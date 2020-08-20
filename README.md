@@ -38,10 +38,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔴Data Science Crash Course from Scratch using Python | Google Colab Notebook | ML Algorithms Compare](https://bit.ly/319NWmz)
 - [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://bit.ly/338uGrd)
 - [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://bit.ly/3fmTkXr)
 - [IBM Face Recognition Using Python and OpenCV - Part -1| Ada Boost Algorithm | Machine Learning](https://bit.ly/2BORGQC)
-- [Python Tutorial - Real-Time Text Editor | EEL Library | JavaScript and Bootstrap | FreeBirds Crew](https://www.youtube.com/watch?v=FfU8pB0E6Cc)
 <!-- YOUTUBE:END -->
 
 ---
