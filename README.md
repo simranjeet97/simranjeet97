@@ -4,9 +4,9 @@
 
 ## I'm a Learner, Software Engineer and Teacher!
 - 🔭 I’m currently working at TCS (Tata Consultancy Services)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Data Science Along with Spark and Azure 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learn More also Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 - ⚡ Fun fact: I love to draw and play guitar and write Songs/Poetry.
 
 ### Connect with me:
