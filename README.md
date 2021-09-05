@@ -38,9 +38,9 @@
 
 ### 📺 Best Projects
 <!-- PROJECTS:START -->
-- [(ON-GOING)Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
-- [Cars Dataset | Python | Machine Learning Algorithms | EDA Dashboard](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
-- [Netflx+IMDB Dataset Merging | Python | Recommendation System | EDA Dashboard](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
+- [(ON-GOING)Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard | End-to-End](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
+- [Cars Dataset | Python | Machine Learning Algorithms | EDA Dashboard | End-to-End](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+- [Netflx+IMDB Dataset Merging | Python | Recommendation System | EDA Dashboard | End-to_End](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 - [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://github.com/simranjeet97/Google-Quick-Draw)
 - [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://github.com/simranjeet97/ChatBot_Tensorflow_NLP)
 - [Covid-19 Data Analysis | Python | Plotly - Dash | Flask](https://github.com/simranjeet97/COVID-19)
