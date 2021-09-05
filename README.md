@@ -48,11 +48,6 @@
 
 ---
 
-<br />
-<br />
-
----
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [🔴Data Science Crash Course from Scratch using Python | Google Colab Notebook | ML Algorithms Compare](https://bit.ly/319NWmz)
