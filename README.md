@@ -1,4 +1,4 @@
-### Hi there, I am [Simranjeet Singh](https://www.instagram.com/itsexceptional/) 👋
+### Hi there, I am [Simranjeet Singh](https://www.linkedin.com/in/simranjeet97) 👋
 
 [<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds%20Crew.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 
@@ -36,6 +36,23 @@
 
 ---
 
+### 📺 Best Projects
+<!-- PROJECTS:START -->
+- [(ON-GOING)Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
+- [Cars Dataset | Python | Machine Learning Algorithms | EDA Dashboard](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+- [Netflx+IMDB Dataset Merging | Python | Recommendation System | EDA Dashboard](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
+- [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://github.com/simranjeet97/Google-Quick-Draw)
+- [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://github.com/simranjeet97/ChatBot_Tensorflow_NLP)
+- [Covid-19 Data Analysis | Python | Plotly - Dash | Flask](https://github.com/simranjeet97/COVID-19)
+<!-- PROJECTS:END -->
+
+---
+
+<br />
+<br />
+
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [🔴Data Science Crash Course from Scratch using Python | Google Colab Notebook | ML Algorithms Compare](https://bit.ly/319NWmz)
@@ -45,7 +62,6 @@
 <!-- YOUTUBE:END -->
 
 ---
-
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simranjeet97&show_icons=true&hide_border=true" />
 
