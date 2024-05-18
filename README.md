@@ -3,17 +3,17 @@
 [<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds%20Crew.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 
 ## I'm a Learner, Software Engineer and Teacher!
-- 🔭 I’m currently working at TCS (Tata Consultancy Services)
-- 🌱 I’m currently learning Data Science Along with Spark and Azure Cloud Cerified Data Scientist 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn More also Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
+- 🔭 I’m currently working as Senior Data Scientis.t
+- 🌱 I’m currently learning Data Science Along with Generative AI and Large Language Modelling. Completed my 75 Hard of GenAI as well.
+- 👯 I’m looking to collaborate with other content creators in AI and LLM Industry.
+- 🥅 2024 Goals: Contribute more to AI and Data Science Community and Learn More about New age Technologies, also Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 - ⚡ Fun fact: I love to draw and play guitar and write Songs/Poetry.
 
 ### Connect with me:
 
 [<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
-[<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/CrewFreebirds)
-[<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet-singh-ab8071153/)
+[<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/Itsexceptional1)
+[<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet97/)
 [<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/itsexceptional/)
 
 <br />
@@ -28,8 +28,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://bit.ly/2Pi452M)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://bit.ly/2Pi452M)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="GenAI" width="26px" src="[genai_icon_url](https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png)"/>](genai_hyperlink)
+[<img align="left" alt="Large Language Models" width="26px" src="language_models_icon_url"/>](language_models_hyperlink)
+[<img align="left" alt="Cloud Computing" width="26px" src="cloud_computing_icon_url"/>](cloud_computing_hyperlink)
+[<img align="left" alt="Distributed Computing" width="26px" src="distributed_computing_icon_url"/>](distributed_computing_hyperlink)
+[<img align="left" alt="Analytics" width="26px" src="analytics_icon_url"/>](analytics_hyperlink)
+[<img align="left" alt="Finance Domain Expert" width="26px" src="finance_icon_url"/>](finance_hyperlink)
 
 <br />
 <br />
