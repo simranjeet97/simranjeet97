@@ -20,17 +20,16 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://bit.ly/2Pi452M)
-[<img align="left" alt="GenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png"/>](genai_hyperlink)
-[<img align="left" alt="Large Language Models" width="26px" src="https://cdn.changelog.com/uploads/icons/topics/R1G/icon_large.png?v=63846884040"/>](language_models_hyperlink)
-[<img align="left" alt="Cloud Computing" width="26px" src="https://cdn-icons-png.flaticon.com/512/8020/8020363.png"/>](cloud_computing_hyperlink)
+[<img align="left" alt="GenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Large Language Models" width="26px" src="https://cdn.changelog.com/uploads/icons/topics/R1G/icon_large.png?v=63846884040"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Cloud Computing" width="26px" src="https://cdn-icons-png.flaticon.com/512/8020/8020363.png"/>](https://bit.ly/2Pi452M)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://bit.ly/2Pi452M)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://bit.ly/2Pi452M)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="SQL" width="26px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"/>](https://bit.ly/2Pi452M)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://bit.ly/2Pi452M)
-[<img align="left" alt="Distributed Computing" width="26px" src="https://cdn-icons-png.flaticon.com/512/5001/5001650.png"/>](distributed_computing_hyperlink)
-[<img align="left" alt="Analytics" width="26px" src="https://cdn-icons-png.freepik.com/512/235/235183.png"/>](analytics_hyperlink)
-[<img align="left" alt="Finance Domain Expert" width="26px" src="https://cdn-icons-png.freepik.com/512/3028/3028880.png"/>](finance_hyperlink)
+[<img align="left" alt="Distributed Computing" width="26px" src="https://cdn-icons-png.flaticon.com/512/5001/5001650.png"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Analytics" width="26px" src="https://cdn-icons-png.freepik.com/512/235/235183.png"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Finance Domain Expert" width="26px" src="https://cdn-icons-png.freepik.com/512/3028/3028880.png"/>](https://bit.ly/2Pi452M)
 
 <br />
 <br />
@@ -39,7 +38,9 @@
 
 ### 📺 Best Projects
 <!-- PROJECTS:START -->
-- [(ON-GOING)Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard | End-to-End](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
+- [Generative AI and Large Language Modelling - 75Hard Challenge](https://github.com/simranjeet97/75DayHard_GenAI_LLM_Challenge)
+- [Multiple Projects using LLMs and OpenAI API](https://github.com/simranjeet97/GPT4_Applications)
+- [Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard | End-to-End](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
 - [Cars Dataset | Python | Machine Learning Algorithms | EDA Dashboard | End-to-End](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 - [Netflx+IMDB Dataset Merging | Python | Recommendation System | EDA Dashboard | End-to_End](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
 - [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://github.com/simranjeet97/Google-Quick-Draw)
@@ -51,8 +52,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🔴Data Science Crash Course from Scratch using Python | Google Colab Notebook | ML Algorithms Compare](https://bit.ly/319NWmz)
-- [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://bit.ly/338uGrd)
+- [GenAI and LLM 75 Challenge Explained Videos](https://bit.ly/4bJwZla)
+- [Explainable Machine Learning Course {FREE} ](https://www.youtube.com/playlist?list=PLYIE4hvbWhsCQld2zZlsrPbjShUeHrl41)
+- [Data Science and Machine Learning Interview Questions](https://www.youtube.com/playlist?list=PLYIE4hvbWhsBitwnO-WUUJ5p-JRulKQRV)
 - [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://bit.ly/3fmTkXr)
 - [IBM Face Recognition Using Python and OpenCV - Part -1| Ada Boost Algorithm | Machine Learning](https://bit.ly/2BORGQC)
 <!-- YOUTUBE:END -->
@@ -63,5 +65,5 @@
 
 [youtube]: https://bit.ly/3hOgKqf
 [instagram]: https://www.instagram.com/itsexceptional/
-[linkedin]: https://bit.ly/3k4NL3i
-[twitter]: https://twitter.com/CrewFreebirds
+[linkedin]: https://www.linkedin.com/in/simranjeet97/
+[twitter]: https://x.com/Itsexceptional1
