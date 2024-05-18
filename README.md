@@ -29,7 +29,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="GenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png"/>](genai_hyperlink)
-[<img align="left" alt="Large Language Models" width="26px" src="language_models_icon_url"/>](language_models_hyperlink)
+[<img align="left" alt="Large Language Models" width="26px" src="https://cdn.changelog.com/uploads/icons/topics/R1G/icon_large.png?v=63846884040"/>](language_models_hyperlink)
 [<img align="left" alt="Cloud Computing" width="26px" src="cloud_computing_icon_url"/>](cloud_computing_hyperlink)
 [<img align="left" alt="Distributed Computing" width="26px" src="distributed_computing_icon_url"/>](distributed_computing_hyperlink)
 [<img align="left" alt="Analytics" width="26px" src="analytics_icon_url"/>](analytics_hyperlink)
