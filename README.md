@@ -1,12 +1,12 @@
 ### Hi there, I am [Simranjeet Singh](https://www.linkedin.com/in/simranjeet97) 👋
 
-[<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds%20Crew.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
+[<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/simranjeet97/simranjeet97/blob/master/ImageForGithubBanner.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 
-## I'm a Learner, Software Engineer and Teacher!
-- 🔭 I’m currently working as Senior Data Scientis.t
-- 🌱 I’m currently learning Data Science Along with Generative AI and Large Language Modelling. Completed my 75 Hard of GenAI as well.
+## I'm a Learner, AI/ML Engineer, Data Scientist and Teacher!
+- 🔭 I’m currently working as AI/ML Engineer at Google.
+- 🌱 I’m currently learning Scalable System Design for AI/ML Along with GenAI and LLM Implementation at Scale.
 - 👯 I’m looking to collaborate with other content creators in AI and LLM Industry.
-- 🥅 2024 Goals: Contribute more to AI and Data Science Community and Learn More about New age Technologies, also Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
+- 🥅 2025 Goals: Contribute more to AI and Data Science Community and Learn More about New age Technologies, also Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 - ⚡ Fun fact: I love to draw and play guitar and write Songs/Poetry.
 
 ### Connect with me:
@@ -38,25 +38,27 @@
 
 ### 📺 Best Projects
 <!-- PROJECTS:START -->
+- [Roadmap from TCS to Google](https://youtu.be/mYa1yGAl7T0)
+- [Agenti AI Course with 14 Projects](https://github.com/simranjeet97/AgenticAI_AIAgents_Course)
 - [Generative AI and Large Language Modelling - 75Hard Challenge](https://github.com/simranjeet97/75DayHard_GenAI_LLM_Challenge)
+- [Learn RAG from Scratch with Projects](https://github.com/simranjeet97/Learn_RAG_from_Scratch_LLM)
+- [LLM and RAG Use Cases in Finance Domain -Projects](https://github.com/simranjeet97/LLM-RAG_Finance_UseCases)
+- [Machine Learning Algorithms Course](https://github.com/simranjeet97/Top-Machine-Learning-Algorithms-Python)
 - [Multiple Projects using LLMs and OpenAI API](https://github.com/simranjeet97/GPT4_Applications)
-- [Pokemon Dataset | PySpark | Machine Learning Algorithms | Recommendation System | EDA Dashboard | End-to-End](https://github.com/simranjeet97/Kaggle_Pokemon_Datset_EDA-Dashboard)
-- [Cars Dataset | Python | Machine Learning Algorithms | EDA Dashboard | End-to-End](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
-- [Netflx+IMDB Dataset Merging | Python | Recommendation System | EDA Dashboard | End-to_End](https://github.com/simranjeet97/Netflix-Analysis-Top-Rated-_Visualization_Plotly)
-- [Google's Quick Draw Implementation using Python and Deep Learning | Doodle Dataset | Tensorflow CNN](https://github.com/simranjeet97/Google-Quick-Draw)
-- [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://github.com/simranjeet97/ChatBot_Tensorflow_NLP)
-- [Covid-19 Data Analysis | Python | Plotly - Dash | Flask](https://github.com/simranjeet97/COVID-19)
 <!-- PROJECTS:END -->
 
 ---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Agentic AI Complete 14 Projects Tutorials with Source Code](https://www.youtube.com/playlist?list=PLYIE4hvbWhsAkn8VzMWbMOxetpaGp-p4k)
+- [Learn RAG from Scratch with Projects](https://www.youtube.com/playlist?list=PLYIE4hvbWhsAKSZVAn5oX1k0oGQ6Mnf1d)
+- [GenAI/LLM Research Papers Explained with Maths](https://www.youtube.com/playlist?list=PLYIE4hvbWhsAwUIHa-hDf9zQSjRpVFUwD)
+- [LLM Fine Tuning Tutorials](https://www.youtube.com/playlist?list=PLYIE4hvbWhsAshCovnaHn_e0aDWYMvZu6)
+- [LLM and RAG Projects for Finance Domain](https://www.youtube.com/playlist?list=PLYIE4hvbWhsDECKjDueeAlIA_oDswYmIg)
 - [GenAI and LLM 75 Challenge Explained Videos](https://bit.ly/4bJwZla)
 - [Explainable Machine Learning Course {FREE} ](https://www.youtube.com/playlist?list=PLYIE4hvbWhsCQld2zZlsrPbjShUeHrl41)
 - [Data Science and Machine Learning Interview Questions](https://www.youtube.com/playlist?list=PLYIE4hvbWhsBitwnO-WUUJ5p-JRulKQRV)
-- [ChatBot Using Python Tensorflow and NLP | Contextual ChatBot | Basics of ChatBot and Working Explain](https://bit.ly/3fmTkXr)
-- [IBM Face Recognition Using Python and OpenCV - Part -1| Ada Boost Algorithm | Machine Learning](https://bit.ly/2BORGQC)
 <!-- YOUTUBE:END -->
 
 ---
