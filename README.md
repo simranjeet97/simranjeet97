@@ -16,7 +16,7 @@ I am an **AI/ML Engineer at Google** with a deep focus on building scalable inte
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?sub_confirmation=1)
 [<img align="left" alt="X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" />](https://x.com/Simranj57588571)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/simranjeet97/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet97/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" />](https://www.instagram.com/itsexceptional/)
 
 <br />
