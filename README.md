@@ -53,7 +53,7 @@ I am an **AI/ML Engineer at Google** with a deep focus on building scalable inte
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE_VIDEOS:START -->
 - [The DeepSeek OCR Paper [Explained] AI Can Now See Text Instead of Reading | Optical Compression](https://www.youtube.com/watch?v=-PJtCo3Nq4w)
-- [Build 9 End-to-End GenAI Projects 2026 [ RAG + Agentic AI + LLMs ] Scalable System Design]([https://www.youtube.com/watch?v=mYa1yGAl7T0](https://www.youtube.com/watch?v=M9p5zAYDgL4))
+- [Build 9 End-to-End GenAI Projects 2026 | RAG + Agentic AI + LLMs | Scalable System Design]([https://www.youtube.com/watch?v=mYa1yGAl7T0](https://www.youtube.com/watch?v=M9p5zAYDgL4))
 - [TCS to Google | From Manual Tester to Machine Learning Engineer | Punjab to FAANG | Tier 3 to GenAI](https://www.youtube.com/watch?v=mYa1yGAl7T0)
 <!-- YOUTUBE_VIDEOS:END -->
 
