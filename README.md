@@ -9,7 +9,7 @@ I am an **AI/ML Engineer at Google** with a deep focus on building scalable inte
 - 🔭 I’m currently working as **AI/ML Engineer at Google**.
 - 🌱 I’m currently learning **Scalable System Design for AI/ML** along with GenAI and LLM Implementation at Scale.
 - 👯 I’m looking to collaborate with other content creators in the AI and LLM Industry.
-- 🥅 2025 Goals: Contribute more to the AI and Data Science Community and Master New-age Agentic Technologies.
+- 🥅 2026 Goals: Contribute more to the AI and GenAI/LLM/Agentic AI Community and Master New-age Technologies.
 - ⚡ Fun fact: I love to draw, play guitar, and write songs/poetry.
 
 ### Connect with me:
