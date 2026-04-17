@@ -14,10 +14,10 @@ I am an **AI/ML Engineer at Google** with a deep focus on building scalable inte
 
 ### Connect with me:
 
-[<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
-[<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/Itsexceptional1)
-[<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://github.com/simranjeet97/simranjeet97/blob/master/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet97/)
-[<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/itsexceptional/)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?sub_confirmation=1)
+[<img align="left" alt="X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" />](https://x.com/Simranj57588571)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet97/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" />](https://www.instagram.com/itsexceptional/)
 
 <br />
 
