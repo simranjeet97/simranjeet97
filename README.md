@@ -15,6 +15,8 @@
 
 ### 🤖 Agentic AI
 
+- 🥭 **[MangoOS — Agentic AI Operating System](https://github.com/simranjeet97/agentic-os-mangoai)** — Production-grade, fully self-hosted AI OS; multi-agent orchestration via LangGraph, Docker-sandboxed execution, Redis + ChromaDB memory, RBAC guardrails, and a React/Electron desktop UI — all running locally on Ubuntu with Ollama.
+
 - 🦾 **[Awesome AI Agents](https://github.com/simranjeet97/Awsome_AI_Agents)** — 17+ autonomous agents from scratch; the most comprehensive free Agentic AI course on GitHub. 157★
   - 🏥 **[MedGemma Analyzer](https://github.com/simranjeet97/Awsome_AI_Agents/tree/main/MedGemma_AIAgent)** — AI radiologist: high-fidelity medical imaging interpretation using MedGemma 1.5 + Streamlit
   - 📈 **[AlphaAdvisor](https://github.com/simranjeet97/Awsome_AI_Agents/tree/main/GenAI_Investment_Strategist)** — Autonomous investment strategist; real-time financial analysis + stock recommendations via Gemini + Yahoo Finance
