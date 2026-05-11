@@ -15,16 +15,16 @@
 
 ### 🤖 Agentic AI
 
-- 🎯 **[OpportunityOS](https://github.com/simranjeet97/OpportunityOS)** — AI-powered opportunity discovery engine that finds jobs, hackathons, grants, and career opportunities automatically. Built to reduce information overload by helping users discover and act on high-value opportunities faster.
+- 🎯 **[OpportunityOS](https://github.com/simranjeet97/OpportunityOS)** — Autonomous AI Content Engine, an end-to-end autonomous research pipeline that ingests papers from **arXiv, Hugging Face, and Anthropic**, grades them with Gemini 3 Flash, and auto-generates viral-ready social posts for X, LinkedIn, and Instagram — all streamed live via a glassmorphism React dashboard.
 
-- ⏳ **[KAAL](https://github.com/simranjeet97/KAAL)** — AI execution system focused on productivity, automation, and turning intent into action. Designed to help users move faster by automating repetitive workflows and decision loops.
+- ⏳ **[KAAL](https://github.com/simranjeet97/KAAL)** — KAAL (Knowledge Augmentation & Autonomous Logic) is a sovereign AI operating layer for macOS. It is designed as a cognitive exoskeleton—an intelligence layer that amplifies your mind, knows your context, and acts autonomously on your behalf.
 
-- 🧠 **[Synapse](https://github.com/simranjeet97/Synapse)** — Enterprise-grade RAG platform with persistent memory and intelligent knowledge retrieval. Built for organizations to query internal data, retain context, and enable smarter AI workflows.
+- 🧠 **[Synapse](https://github.com/simranjeet97/Synapse)** — Enterprise Agentic RAG System. An enterprise-grade RAG monorepo powered by **Google Gemini 3** featuring self-healing retrieval (CRAG), adaptive query routing, hybrid Dense+Sparse search, and multi-layer security guards (input/output/PII) — built for citation-accurate answers at million-document scale.
 
-- 🤖 **[FreeBirdsCrew WhatsApp AI Bot](https://github.com/simranjeet97/FreeBirdsCrew_WhatsApp_AI_Bot)** — WhatsApp-based AI assistant for automating conversations, responses, and community engagement. Helps manage interactions directly through WhatsApp with AI-powered automation.
+- 🤖 **[FreeBirdsCrew WhatsApp AI Bot](https://github.com/simranjeet97/FreeBirdsCrew_WhatsApp_AI_Bot)** — LLM Wiki-Powered WhatsApp Assistant. A smart WhatsApp bot built on **Karpathy's LLM Wiki Architecture** using Gemini 3.0 Flash — routes incoming messages to the right resources (YouTube playlists, GitHub repos, Topmate sessions) via intent classification, with a built-in React dashboard and keyword fallback.
 
-- 🚀 **[AndrejKarpathy 2026 Focus Projects](https://github.com/simranjeet97/AndrejKarpathy_2026_FocusProjects)** — A structured collection of AI projects inspired by Andrej Karpathy’s learning philosophy. Built as a hands-on roadmap for mastering AI through focused execution.
-  
+- 🚀 **[AndrejKarpathy 2026 Focus Projects](https://github.com/simranjeet97/AndrejKarpathy_2026_FocusProjects)** — A curated 7-project roadmap (inspired by Andrej Karpathy) covering **Context Engineering, Tool Design, Agent Orchestration, Eval Discipline, and Reliability Engineering** — progressing from PR review agents to a full autonomous DevOps incident response system.
+
 - 🥭 **[MangoOS — Agentic AI Operating System](https://github.com/simranjeet97/agentic-os-mangoai)** — Production-grade, fully self-hosted AI OS; multi-agent orchestration via LangGraph, Docker-sandboxed execution, Redis + ChromaDB memory, RBAC guardrails, and a React/Electron desktop UI — all running locally on Ubuntu with Ollama.
 
 - 🦾 **[Awesome AI Agents](https://github.com/simranjeet97/Awsome_AI_Agents)** — 17+ autonomous agents from scratch; the most comprehensive free Agentic AI course on GitHub. 157★
