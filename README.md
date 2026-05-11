@@ -15,6 +15,16 @@
 
 ### 🤖 Agentic AI
 
+- 🎯 **[OpportunityOS](https://github.com/simranjeet97/OpportunityOS)** — AI-powered opportunity discovery engine that finds jobs, hackathons, grants, and career opportunities automatically. Built to reduce information overload by helping users discover and act on high-value opportunities faster.
+
+- ⏳ **[KAAL](https://github.com/simranjeet97/KAAL)** — AI execution system focused on productivity, automation, and turning intent into action. Designed to help users move faster by automating repetitive workflows and decision loops.
+
+- 🧠 **[Synapse](https://github.com/simranjeet97/Synapse)** — Enterprise-grade RAG platform with persistent memory and intelligent knowledge retrieval. Built for organizations to query internal data, retain context, and enable smarter AI workflows.
+
+- 🤖 **[FreeBirdsCrew WhatsApp AI Bot](https://github.com/simranjeet97/FreeBirdsCrew_WhatsApp_AI_Bot)** — WhatsApp-based AI assistant for automating conversations, responses, and community engagement. Helps manage interactions directly through WhatsApp with AI-powered automation.
+
+- 🚀 **[AndrejKarpathy 2026 Focus Projects](https://github.com/simranjeet97/AndrejKarpathy_2026_FocusProjects)** — A structured collection of AI projects inspired by Andrej Karpathy’s learning philosophy. Built as a hands-on roadmap for mastering AI through focused execution.
+  
 - 🥭 **[MangoOS — Agentic AI Operating System](https://github.com/simranjeet97/agentic-os-mangoai)** — Production-grade, fully self-hosted AI OS; multi-agent orchestration via LangGraph, Docker-sandboxed execution, Redis + ChromaDB memory, RBAC guardrails, and a React/Electron desktop UI — all running locally on Ubuntu with Ollama.
 
 - 🦾 **[Awesome AI Agents](https://github.com/simranjeet97/Awsome_AI_Agents)** — 17+ autonomous agents from scratch; the most comprehensive free Agentic AI course on GitHub. 157★
